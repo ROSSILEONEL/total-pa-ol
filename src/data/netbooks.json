@@ -1,0 +1,275 @@
+{
+  "netbooks": [
+    {
+      "id": "df32",
+      "numero": 1,
+      "estado": "En uso",
+      "curso": "1°A",
+      "docente": "Goku",
+      "alumno": "Juan Pérez",
+      "Descripcion": "Netbook en buen estado"
+    },
+    {
+      "numero": 2,
+      "estado": "En mantenimiento",
+      "curso": "1°B",
+      "docente": "Vegeta",
+      "alumno": "María Torres",
+      "Descripcion": "Netbook en buen estado",
+      "id": "64a4"
+    },
+    {
+      "numero": 3,
+      "estado": "En uso",
+      "curso": "2°A",
+      "docente": "Piccolo",
+      "alumno": "Carlos Díaz",
+      "Descripcion": "Netbook en buen estado",
+      "id": "53d2"
+    },
+    {
+      "numero": 4,
+      "estado": "En uso",
+      "curso": "2°B",
+      "docente": "Gohan",
+      "alumno": "Ana Gómez",
+      "Descripcion": "Netbook en buen estado",
+      "id": "7a3f"
+     
+    },
+    {
+      "numero": 5,
+      "estado": "Disponible",
+      "curso": "3°A",
+      "docente": "Trunks",
+      "alumno": "Sofía López",
+      "Descripcion": "Netbook en buen estado",
+      "id": "5176"
+    },
+    {
+      "numero": 6,
+      "estado": "En uso",
+      "curso": "3°B",
+      "docente": "Goten",
+      "alumno": "Pedro Alvarez",
+      "Descripcion": "Netbook en buen estado",
+      "id": "3f93"
+    },
+    {
+      "numero": 7,
+      "estado": "Disponible",
+      "curso": "1°A",
+      "docente": "Krillin",
+      "alumno": "Lucía Martínez",
+      "Descripcion": "Netbook en buen estado",
+      "id": "ccd7"
+    },
+    {
+      "numero": 8,
+      "estado": "Disponible",
+      "curso": "1°B",
+      "docente": "Yamcha",
+      "alumno": "Federico Romero",
+      "Descripcion": "Netbook en buen estado",
+      "id": "eb2e"
+    },
+    {
+      "numero": 9,
+      "estado": "Disponible",
+      "curso": "2°A",
+      "docente": "Ten Shin Han",
+      "alumno": "Natalia Herrera",
+      "Descripcion": "Netbook en buen estado",
+      "id": "568c"
+    },
+    {
+      "numero": 10,
+      "estado": "Disponible",
+      "curso": "2°B",
+      "docente": "Roshi",
+      "alumno": "Diego Suárez",
+      "Descripcion": "Netbook en buen estado",
+      "id": "c6f7"
+    },
+    {
+      "numero": 11,
+      "estado": "Disponible",
+      "curso": "3°A",
+      "docente": "Videl",
+      "alumno": "Valentina Ruiz",
+      "Descripcion": "Netbook en buen estado",
+      "id": "ff9d"
+    },
+    {
+      "numero": 12,
+      "estado": "Disponible",
+      "curso": "3°B",
+      "docente": "Mr. Satan",
+      "alumno": "Gonzalo Paredes",
+      "Descripcion": "Netbook en buen estado",
+      "id": "b046"
+    },
+    {
+      "numero": 13,
+      "estado": "En mantenimiento",
+      "curso": "1°A",
+      "docente": "Bulma",
+      "alumno": "Camila Ortega",
+      "Descripcion": "Netbook en buen estado",
+      "id": "e0e5"
+    },
+    {
+      "numero": 14,
+      "estado": "Disponible",
+      "curso": "1°B",
+      "docente": "Chi-Chi",
+      "alumno": "Tomás Ríos",
+      "Descripcion": "Netbook en buen estado",
+      "id": "596b"
+    },
+    {
+      "numero": 15,
+      "estado": "Disponible",
+      "curso": "2°A",
+      "docente": "Dende",
+      "alumno": "Martina Castro",
+      "Descripcion": "Netbook en buen estado",
+      "id": "57f7"
+    },
+    {
+      "numero": 16,
+      "estado": "Disponible",
+      "curso": "2°B",
+      "docente": "Kibito",
+      "alumno": "Lautaro Sosa",
+      "Descripcion": "Netbook en buen estado",
+      "id": "19eb"
+    },
+    {
+      "numero": 17,
+      "estado": "Disponible",
+      "curso": "3°A",
+      "docente": "Shin",
+      "alumno": "Julieta Molina",
+      "Descripcion": "Netbook en buen estado",
+      "id": "b253"
+    },
+    {
+      "numero": 18,
+      "estado": "Disponible",
+      "curso": "3°B",
+      "docente": "Beerus",
+      "alumno": "Matías Acuña",
+      "Descripcion": "Netbook en buen estado",
+      "id": "f62c"
+    },
+    {
+      "numero": 19,
+      "estado": "Disponible",
+      "curso": "1°A",
+      "docente": "Whis",
+      "alumno": "Florencia Navarro",
+      "Descripcion": "Netbook en buen estado",
+      "id": "d18f"
+    },
+    {
+      "numero": 20,
+      "estado": "Disponible",
+      "curso": "1°B",
+      "docente": "Zeno",
+      "alumno": "Agustín Ferrer",
+      "Descripcion": "Netbook en buen estado",
+      "id": "b571"
+    },
+    {
+      "numero": 21,
+      "estado": "Disponible",
+      "curso": "2°A",
+      "docente": "Jiren",
+      "alumno": "Emilia Franco",
+      "Descripcion": "Netbook en buen estado",
+      "id": "6926"
+    },
+    {
+      "numero": 22,
+      "estado": "Disponible",
+      "curso": "2°B",
+      "docente": "Hit",
+      "alumno": "Santiago Beltrán",
+      "Descripcion": "Netbook en buen estado",
+      "id": "f1cb"
+    },
+    {
+      "numero": 23,
+      "estado": "Disponible",
+      "curso": "3°A",
+      "docente": "Caulifla",
+      "alumno": "Isabela Carrizo",
+      "Descripcion": "Netbook en buen estado",
+      "id": "3d23"
+    },
+    {
+      "numero": 24,
+      "estado": "Disponible",
+      "curso": "3°B",
+      "docente": "Cabba",
+      "alumno": "Facundo Romero",
+      "Descripcion": "Netbook en buen estado",
+      "id": "285d"
+    },
+    {
+      "numero": 25,
+      "estado": "Disponible",
+      "curso": "1°A",
+      "docente": "Freezer",
+      "alumno": "Malena Rivas",
+      "Descripcion": "Netbook en buen estado",
+      "id": "3db0"
+    },
+    {
+      "numero": 26,
+      "estado": "Disponible",
+      "curso": "1°B",
+      "docente": "Cell",
+      "alumno": "Franco Oliva",
+      "Descripcion": "Netbook en buen estado",
+      "id": "68b6"
+    },
+    {
+      "numero": 27,
+      "estado": "Disponible",
+      "curso": "2°A",
+      "docente": "Majin Buu",
+      "alumno": "Micaela Díaz",
+      "Descripcion": "Netbook en buen estado",
+      "id": "0027"
+    },
+    {
+      "numero": 28,
+      "estado": "Disponible",
+      "curso": "2°B",
+      "docente": "Android 18",
+      "alumno": "Leandro Gómez",
+      "Descripcion": "Netbook en buen estado",
+      "id": "be78"
+    },
+    {
+      "numero": 29,
+      "estado": "Disponible",
+      "curso": "3°A",
+      "docente": "Android 17",
+      "alumno": "Cecilia Vera",
+      "Descripcion": "Netbook en buen estado",
+      "id": "4f0d"
+    },
+    {
+      "numero": 30,
+      "estado": "Disponible",
+      "curso": "3°B",
+      "docente": "Pan",
+      "alumno": "Thiago Herrera",
+      "Descripcion": "Netbook en buen estado",
+      "id": "4f88"
+    }
+  ]
+}
