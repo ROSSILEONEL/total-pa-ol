@@ -24,7 +24,7 @@
       "curso": "2°A",
       "docente": "Piccolo",
       "alumno": "Carlos Díaz",
-      "Descripcion": "Netbook en buen estado",
+      "Descripcion": "Solo funciona enchufada",
       "id": "53d2"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "numero": 8,
-      "estado": "Disponible",
+      "estado": "En mantenimiento",
       "curso": "1°B",
       "docente": "Yamcha",
       "alumno": "Federico Romero",
@@ -165,7 +165,7 @@
     },
     {
       "numero": 19,
-      "estado": "Disponible",
+      "estado": "En mantenimiento",
       "curso": "1°A",
       "docente": "Whis",
       "alumno": "Florencia Navarro",
@@ -210,7 +210,7 @@
     },
     {
       "numero": 24,
-      "estado": "Disponible",
+      "estado": "En mantenimiento",
       "curso": "3°B",
       "docente": "Cabba",
       "alumno": "Facundo Romero",
@@ -219,7 +219,7 @@
     },
     {
       "numero": 25,
-      "estado": "Disponible",
+      "estado": "En mantenimiento",
       "curso": "1°A",
       "docente": "Freezer",
       "alumno": "Malena Rivas",
@@ -255,7 +255,7 @@
     },
     {
       "numero": 29,
-      "estado": "Disponible",
+      "estado": "En mantenimiento",
       "curso": "3°A",
       "docente": "Android 17",
       "alumno": "Cecilia Vera",
@@ -264,7 +264,7 @@
     },
     {
       "numero": 30,
-      "estado": "Disponible",
+      "estado": "En mantenimiento",
       "curso": "3°B",
       "docente": "Pan",
       "alumno": "Thiago Herrera",
